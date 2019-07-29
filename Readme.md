@@ -9,3 +9,4 @@ A c++ application - Options:
   - Saving data to computer (all database)
   - Showing a gif or video - not really works
   - Navigation in menu using numbers\letters and also arrow keys (up and down)
+![ScreenShot](https://github.com/eidoil32/Partof-Sefer/blob/master/screenshotfb.PNG)
